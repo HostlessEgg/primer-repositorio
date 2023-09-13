@@ -1,2 +1,2 @@
-# primer-repositorio
+# Primer README
 Repositorio del curso de freeCodeCamp
